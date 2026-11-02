@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi I am Emre.
+
+I am study at Uludag University in department of Computer Engineering.
+
+I don't have any project on this site yet.
+
+I worked with c# mostly. And learning HTML and JavaScript these days.
+
+
+
 
 <!--
 **EmreCikriklar/Emrecikriklar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
